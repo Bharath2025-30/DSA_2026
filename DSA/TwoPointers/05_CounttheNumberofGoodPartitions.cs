@@ -2,7 +2,7 @@
  
 namespace DSA.TwoPointers
 {
-    public class Solution {
+    public class Solution5 {
         private static int mod = (int)1e9+7;
         public int NumberOfGoodPartitions(int[] nums) {
             int n = nums.Length;
